@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	height: 100vh;
-	background: #000000;
+	background: red!important;
   }
   #login .container #login-row #login-column #login-box {
 	margin-top: 120px;
@@ -20,8 +20,4 @@ body {
   .space {
 	  width: 100%;
 
-  }
-
-  .fondobody{
-	  background-color: #000000;
   }
