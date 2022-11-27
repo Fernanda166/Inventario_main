@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	height: 100vh;
-	background: red!important;
+	background: #012a4a;
   }
   #login .container #login-row #login-column #login-box {
 	margin-top: 120px;
@@ -21,3 +21,11 @@ body {
 	  width: 100%;
 
   }
+.fondobody .logo_prin{
+	width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 50px);
+}
